@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Libre Baskerville', serif;
+    scroll-behavior: smooth;
+    
+}
+.section-padding{
+    padding: 70px 0;
+}
+.home{
+    background: linear-gradient(to right,#0B0930,#1A1A64,#2C2A89,#453AA4,#5C49C6);
+}
+.page{
+    height: 100%;
+}
+.info p{
+    line-height: 2.2;
+}
+.cap{
+    background:linear-gradient(to left ,#004484ff,#19477fff,#081b24ff )        ;
+}
+.iron{
+    background: linear-gradient(to left, rgb(177, 5, 5) ,rgb(127, 11, 11) ,#000016   );
+}
+.thor{
+    background: linear-gradient(to right,#000016,rgb(1, 1, 106));
+}
+.black{
+    background: linear-gradient(to right,#000016,rgb(1, 1, 48),rgb(93, 0, 0),rgb(59, 1, 1) );
+}
+.Hulk{
+    background:linear-gradient(to right,rgb(5, 119, 5),rgb(1, 87, 10),rgb(1, 67, 1),#000016);
+}
